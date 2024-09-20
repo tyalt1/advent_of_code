@@ -1,6 +1,6 @@
 # AdventOfCodeElixir
 
-Repo for (Advent of Code)[https://adventofcode.com/] solutions.
+Repo for [Advent of Code](https://adventofcode.com/) solutions.
 
 ## Running
 
