@@ -1,21 +1,11 @@
 # AdventOfCodeElixir
 
-**TODO: Add description**
+Repo for (Advent of Code)[] solutions.
 
-## Installation
+## Running
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `advent_of_code_elixir` to your list of dependencies in `mix.exs`:
+TODO
 
-```elixir
-def deps do
-  [
-    {:advent_of_code_elixir, "~> 0.1.0"}
-  ]
-end
-```
+## Refs
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/advent_of_code_elixir>.
-
+- Based [this youtube tutorial](https://youtu.be/gpaV4bgEG-g?si=-VK-fPQrz5IQ2mr0).
