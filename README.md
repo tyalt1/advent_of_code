@@ -4,7 +4,9 @@ Repo for [Advent of Code](https://adventofcode.com/) solutions.
 
 ## Running
 
-TODO
+Generate new day with `mix advent.gen.day DAY YEAR`. Run `mix help advent.gen.day` for more info.
+
+Run a solution with `mix advent.run DAY YEAR`. Run `mix help advent.run` for more info.
 
 ## Refs
 
